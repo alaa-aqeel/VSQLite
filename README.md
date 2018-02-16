@@ -3,5 +3,5 @@
 
 
 
-__A program to display sqlite databases
-__Programmer with Python and the graphical interface Qt5
+___A program to display sqlite databases___
+___Programmer with Python and the graphical interface Qt5___
